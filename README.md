@@ -19,9 +19,9 @@ ___
 
 As seguintes tecnologias foram empregadas na criação deste projeto:
 
-- [Html](https://reactjs.org](https://developer.mozilla.org/pt-BR/docs/Web/HTML))
+- [Html]([https://reactjs.org](https://developer.mozilla.org/pt-BR/docs/Web/HTML))
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-- [Css](https://vitejs.dev/](https://developer.mozilla.org/pt-BR/docs/Web/CSS))
+- [Css]([https://vitejs.dev/](https://developer.mozilla.org/pt-BR/docs/Web/CSS))
 
 ___
 
