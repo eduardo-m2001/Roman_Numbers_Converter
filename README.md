@@ -25,5 +25,13 @@ As seguintes tecnologias foram empregadas na criação deste projeto:
 
 ___
 
+## 🚀 Como utilizar
+
+Clone o projeto para o local desejado em seu computador.
+
+```bash
+$ git clone https://github.com/eduardo-m2001/Roman_Numbers_Converter
+```
+___
 
 [O resultado FINAL pode ser visto aqui](https://eduardo-medeiros.netlify.app/)
