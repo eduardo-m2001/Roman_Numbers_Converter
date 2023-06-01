@@ -10,7 +10,7 @@ ___
 ## 🎨 Layout
 A página inicial em formato desktop é vista na imagem abaixo:
 
-![image](https://github.com/eduardo-m2001/Roman_Numbers_Converter/assets/88609782/72c17b4a-b3d1-439f-bf1c-2b8dc04d9243)
+![image](https://github.com/eduardo-m2001/Roman_Numbers_Converter/assets/88609782/6654f88a-01fb-4802-9283-503f8ab947f4)
 
 
 ___
